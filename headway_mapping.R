@@ -1,7 +1,7 @@
 pacman::p_load(dplyr, gtfsio, sf, bizdays, data.table, tidyverse, ggplot2, tidyr, knitr, tidytransit)
 
 #GTFS
-ano_gtfs <- '2024'
+ano_gtfs <- '2024' #definição de an, mês e quinzena
 mes_gtfs <- '06'
 quinzena_gtfs <- '01'
 
